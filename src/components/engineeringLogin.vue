@@ -8,7 +8,7 @@
         <el-button class="login_button" type="primary" @click="engineeringLogin">登录</el-button>
       </template>
       <template v-slot:switch_button>
-        <el-button class="switch_button" @click="goto('/publicVersion')">切换到大众版</el-button>
+        <el-button class="switch_button" @click="goto('/publicLogin')">切换到大众版</el-button>
       </template>
     </login>
   </div>
