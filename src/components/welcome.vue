@@ -2,8 +2,8 @@
   <div class="background">
     <span class="text">数字桥梁博物馆</span>
     <el-form class="buttons">
-      <el-button class="engineering" @click="goto('/engineeringVersion')">工程版</el-button>
-      <el-button class="public" @click="goto('/publicVersion')">大众版</el-button>
+      <el-button class="engineering" @click="goto('/engineeringLogin')">工程版</el-button>
+      <el-button class="public" @click="goto('/publicLogin')">大众版</el-button>
     </el-form>
   </div>
 </template>

@@ -18,7 +18,7 @@
 import login from "./login.vue";
 
 export default {
-  name: 'publicVersion',
+  name: 'publicLogin',
   components: {
     login
   },

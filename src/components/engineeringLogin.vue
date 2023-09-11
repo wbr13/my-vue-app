@@ -17,7 +17,7 @@
 <script>
 import login from './login.vue'
 export default {
-  name: 'engineeringVersion',
+  name: 'engineeringLogin',
   components: {
     login
   },
